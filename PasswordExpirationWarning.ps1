@@ -14,8 +14,8 @@ $erroractionpreference = "SilentlyContinue"
 #
 #			<?xml version="1.0"?>
 #			<config>
-#				<smtp>172.16.210.108</smtp>
-#				<adminemail>akshay.shetty@miu.edu.my</adminemail>
+#				<smtp>1.1.1.1</smtp>
+#				<adminemail>you@yourdomain.com</adminemail>
 #				<policy>60</policy>
 #				<upperthreshold>15</upperthreshold>
 #				<lowerthreshold>7</lowerthreshold>
